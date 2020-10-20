@@ -1,6 +1,5 @@
-package app.com.java;
+package com.praveenoruganti.others;
 
-import java.io.IOException;
 import java.nio.charset.Charset;
 import java.nio.file.Files;
 import java.nio.file.Path;
@@ -38,5 +37,7 @@ public class Task {
 		try {
 			notesList.addAll(Files.lines(out).collect(Collectors.toList()));
 		} catch (Exception e) {// Ignore}
+		}
 	}
+
 }
