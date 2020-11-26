@@ -1,2 +1,2 @@
-# praveenoruganti-java-samples
- Praveen Oruganti Java Samples
+# praveenoruganti-java-basics
+ Praveen Oruganti Java Basics
