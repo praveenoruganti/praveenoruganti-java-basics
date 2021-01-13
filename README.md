@@ -1,8 +1,6 @@
-![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-express-js/master/tech.PNG)
-
-
 # Java Course
 
+![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-express-js/master/tech.PNG)
 
 - [Introduction To Java](https://praveenorugantitech.blogspot.com/2019/08/introduction-to-java.html){:target="_blank"}
 - [JVM Architecture](https://praveenorugantitech.blogspot.com/2019/08/introduction-to-java.html){:target="_blank"}
